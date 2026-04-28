@@ -100,3 +100,20 @@ This project was completed collaboratively:
 ## Final Thoughts  
 
 This project demonstrated how Python can be used to analyze important real-world issues like immigration. By combining data analysis with visualization, we were able to turn raw numbers into meaningful insights and better understand long-term trends in immigration outcomes.
+
+---
+
+## Aditional Sources used for our presentation
+
+https://www.migrationpolicy.org/research/immigration-under-trump-review-policy-shifts
+
+https://map.americanimmigrationcouncil.org/locations/national/
+
+https://austinkocher.substack.com/p/the-asylum-denial-machine
+
+https://www.migrationpolicy.org/research/immigration-under-trump-review-policy-shifts
+
+https://www.theguardian.com/us-news/2023/nov/28/ice-detainees-lumpkin-georgia 
+
+https://www.npr.org/2026/04/17/nx-s1-5789092/deaths-of-migrants-in-ice-custody-hit-record-high-under-trump 
+
